@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Rushi 👋
 
-<!--
-**RushiKumthekar/RushiKumthekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Analytics Graduate | 📊 Data Analyst | 🤖 ML & Data Engineering
 
-Here are some ideas to get you started:
+I turn data into insights using analytics, business intelligence, machine learning, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages:**
+Python • SQL
+
+**Data & BI:**
+Excel • Power BI • Tableau • Data Visualization • KPI Dashboards • Business Analysis • MIS Reporting
+
+**Databases:**
+PostgreSQL • MongoDB
+
+**Data Engineering:**
+ETL • Dagster • Apache Spark • PySpark • Data Cleaning • Data Validation • Star Schema
+
+**Cloud:**
+Microsoft Azure • Azure Blob Storage • AWS
+
+**Machine Learning:**
+Random Forest • Logistic Regression • KNN • LSTM • GRU • Transformers • TF-IDF • SMOTE • Forecasting
+
+**Tools:**
+Git • Jupyter Notebook
+
+### 📌 Projects
+
+📊 Business Insights & Reporting
+🌡️ Climate Analytics Pipeline
+⚡ EV Infrastructure Analytics
+📈 Stock Forecasting
+
+📫 **[omkumthekar093@gmail.com](mailto:omkumthekar093@gmail.com)**
