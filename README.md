@@ -1,37 +1,33 @@
-# Hi, I'm Rushi 👋
+# Hey there 👋
 
-🎓 MSc Data Analytics Graduate | 📊 Data Analyst | 🤖 ML & Data Engineering
+I'm Rushi, a data analytics graduate with a passion for turning data into useful insights.
 
-I turn data into insights using analytics, business intelligence, machine learning, and cloud technologies.
+I mostly work with data analytics, business intelligence, data engineering, and machine learning. I enjoy building dashboards, ETL pipelines, forecasting models, and data-driven solutions.
 
-### 🛠️ Tech Stack
+This is my personal GitHub where I share projects, experiments, and things I'm currently working on.
 
-**Languages:**
-Python • SQL
+---
 
-**Data & BI:**
-Excel • Power BI • Tableau • Data Visualization • KPI Dashboards • Business Analysis • MIS Reporting
+## Tools & Tech
 
-**Databases:**
-PostgreSQL • MongoDB
+- 🐍 Python, SQL, Excel
+- 📊 Power BI, Tableau
+- 🗄️ PostgreSQL, MongoDB
+- ⚙️ Apache Spark, PySpark, Dagster
+- ☁️ Microsoft Azure, AWS
+- 🤖 Machine Learning, Deep Learning, Forecasting
+- 📈 Random Forest, Logistic Regression, KNN
+- 🧠 LSTM, GRU, Transformers, TF-IDF
+- 🔧 Git, Jupyter Notebook
+- 🔄 ETL, Data Cleaning, Data Validation
+- 📐 Data Modelling, Star Schema, KPI Analysis
 
-**Data Engineering:**
-ETL • Dagster • Apache Spark • PySpark • Data Cleaning • Data Validation • Star Schema
+---
 
-**Cloud:**
-Microsoft Azure • Azure Blob Storage • AWS
+## A Bit About Me
 
-**Machine Learning:**
-Random Forest • Logistic Regression • KNN • LSTM • GRU • Transformers • TF-IDF • SMOTE • Forecasting
-
-**Tools:**
-Git • Jupyter Notebook
-
-### 📌 Projects
-
-📊 Business Insights & Reporting
-🌡️ Climate Analytics Pipeline
-⚡ EV Infrastructure Analytics
-📈 Stock Forecasting
-
-📫 **[omkumthekar093@gmail.com](mailto:omkumthekar093@gmail.com)**
+- 🎓 MSc in Data Analytics
+- 📊 I enjoy working with data and finding meaningful insights
+- 💻 I like building practical data projects
+- 🚀 Always learning new tools and technologies
+- ☕ Coffee + code + data
